@@ -1,0 +1,21 @@
+[
+    {
+      "id" : "978-0641723445",
+      "name" : "TD Canada",
+      "serialNumber" : "",
+      "activationCode" : "",
+      "url" : "",
+      "action": "add",
+      "online" : true
+    }
+  ,
+    {
+      "id" : "978-1423103349",
+      "name" : "Scotiabank",
+      "serialNumber" : "",
+      "activationCode" : "",
+      "url" : "",
+      "action": "add",
+      "online" : true
+    }
+  ]
