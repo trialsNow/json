@@ -7,5 +7,14 @@
       "url" : "sedemoidg2.yourcorp.com:8445/igst",
       "action": "add",
       "online" : true
+    },
+     {
+      "id" : "978-0841723445",
+      "name" : "TD Canada",
+      "serialNumber" : "XXXX-41826",
+      "activationCode" : "2823-1248-6802-5999",
+      "url" : "sedemoidg2.yourcorp.com:8445/igst",
+      "action": "add",
+      "online" : true
     }
   ]
