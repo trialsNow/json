@@ -2,9 +2,18 @@
     {
       "id" : "978-0641723445",
       "name" : "BMO",
-      "serialNumber" : "56227-37830",
-      "activationCode" : "6702-7742-6073-4791",
+      "serialNumber" : "90990-31602",
+      "activationCode" : "9279-2186-6463-9435",
       "url" : "sedemoidg2.yourcorp.com:8445/igst",
+      "action": "add",
+      "online" : true
+    },
+    {
+      "id" : "978-0649723445",
+      "name" : "Scotia",
+      "serialNumber" : "37196-13626",
+      "activationCode" : "1068-2795-2858-4078",
+      "url" : "newfie12.qa2016ca.dev.datacard.com:8445/igst",
       "action": "add",
       "online" : true
     }
